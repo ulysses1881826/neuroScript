@@ -1,6 +1,7 @@
 #!/bin/bash
 
-FILES=/home/ubuntu/Desktop/ADNI_MRI_Image/nii_MCI/*
+#FILES=/home/ubuntu/Desktop/ADNI_MRI_Image/nii_MCI/*
+FILES=/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/*
 for f in $FILES
 do
 	for nii in $f/*
@@ -9,7 +10,7 @@ do
 		echo $filename
 		echo $nii
 		bl dataset upload \
-		--project 5e44ab0a1eafff87c0f93fe3 \
+	        --project 5e563d200f7fa60c683c8fe2 \
 		--datatype neuro/anat/t1w \
 		--subject $filename \
 		--session 1 \

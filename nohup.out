@@ -1,0 +1,1349 @@
+002_S_4225
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/002_S_4225/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57393f9b277d4e57bd8a31(stored) Successfully completed in 0.16 mins on wrangler(nfs)
+archived! 5e57393f9b277d4e57bd8a31
+002_S_4262
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/002_S_4262/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5739569b277d41bebd8a42(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e5739569b277d41bebd8a42
+002_S_4270
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/002_S_4270/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57396c9b277da10bbd8a4e(stored) Successfully completed in 0.29 mins on wrangler(nfs)
+archived! 5e57396c9b277da10bbd8a4e
+002_S_6007
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/002_S_6007/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e57398f9b277d42dbbd8a73(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e57398f9b277d42dbbd8a73
+002_S_6066
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/002_S_6066/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5739b19b277da46ebd8a89(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e5739b19b277da46ebd8a89
+002_S_6456
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/002_S_6456/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5739d29b277ddcfbbd8a9a(stored) Successfully completed in 0.35 mins on wrangler(nfs)
+archived! 5e5739d29b277ddcfbbd8a9a
+003_S_4081
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/003_S_4081/2_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e5739f49b277d017dbd8c04(stored) Successfully completed in 0.29 mins on wrangler(nfs)
+archived! 5e5739f49b277d017dbd8c04
+003_S_4288
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/003_S_4288/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573a149b277dbf3cbd8d3a(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573a149b277dbf3cbd8d3a
+003_S_4441
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/003_S_4441/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573a2b9b277dfa84bd8d4b(stored) Successfully completed in 0.19 mins on wrangler(nfs)
+archived! 5e573a2b9b277dfa84bd8d4b
+003_S_6260
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/003_S_6260/3_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573a489b277d6e21bd8dc5(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e573a489b277d6e21bd8dc5
+003_S_6307
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/003_S_6307/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573a609b277d4496bd8df9(stored) Successfully completed in 0.16 mins on wrangler(nfs)
+archived! 5e573a609b277d4496bd8df9
+003_S_6644
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/003_S_6644/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573a799b277d3dd4bd8ecd(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e573a799b277d3dd4bd8ecd
+005_S_6084
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/005_S_6084/3_accelerated_sagittal_ir-fspgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573a9f9b277d6cf8bd8ee3(stored) Successfully completed in 0.39 mins on wrangler(nfs)
+archived! 5e573a9f9b277d6cf8bd8ee3
+006_S_4449
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/006_S_4449/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573ac49b277de39fbd8ef4(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573ac49b277de39fbd8ef4
+007_S_4387
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/007_S_4387/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573adc9b277d403cbd8f12(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e573adc9b277d403cbd8f12
+007_S_4637
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/007_S_4637/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573afc9b277d2689bd8ff5(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573afc9b277d2689bd8ff5
+009_S_4337
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/009_S_4337/3_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573b169b277d1fd0bd9085(stored) Successfully completed in 0.33 mins on wrangler(nfs)
+archived! 5e573b169b277d1fd0bd9085
+009_S_4388
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/009_S_4388/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573b3d9b277d601ebd9096(stored) Successfully completed in 0.17 mins on wrangler(nfs)
+archived! 5e573b3d9b277d601ebd9096
+009_S_4612
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/009_S_4612/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573b599b277daa6fbd90bc(stored) Successfully completed in 0.33 mins on wrangler(nfs)
+archived! 5e573b599b277daa6fbd90bc
+010_S_4442
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/010_S_4442/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573b7b9b277d066fbd90d2(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e573b7b9b277d066fbd90d2
+011_S_4105
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/011_S_4105/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573b9d9b277d0a84bd9142(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e573b9d9b277d0a84bd9142
+011_S_4120
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/011_S_4120/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573bb59b277d2607bd91c6(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e573bb59b277d2607bd91c6
+011_S_4278
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/011_S_4278/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573bd09b277d4e45bd91d7(stored) Successfully completed in 0.34 mins on wrangler(nfs)
+archived! 5e573bd09b277d4e45bd91d7
+011_S_6367
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/011_S_6367/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573bf39b277d3535bd91ec(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e573bf39b277d3535bd91ec
+011_S_6465
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/011_S_6465/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573c0b9b277db78dbd91f9(stored) Successfully completed in 0.20 mins on wrangler(nfs)
+archived! 5e573c0b9b277db78dbd91f9
+012_S_4026
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/012_S_4026/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573c299b277dfa4cbd920a(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e573c299b277dfa4cbd920a
+013_S_4580
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/013_S_4580/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573c4b9b277dba42bd924c(stored) Successfully completed in 0.38 mins on wrangler(nfs)
+archived! 5e573c4b9b277dba42bd924c
+013_S_4616
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/013_S_4616/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573c739b277dd41ebd9276(stored) Successfully completed in 0.25 mins on wrangler(nfs)
+archived! 5e573c739b277dd41ebd9276
+014_S_4080
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/014_S_4080/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573c8e9b277d67b8bd9296(stored) Successfully completed in 0.20 mins on wrangler(nfs)
+archived! 5e573c8e9b277d67b8bd9296
+014_S_4093
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/014_S_4093/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573cab9b277d5862bd92b1(stored) Successfully completed in 0.39 mins on wrangler(nfs)
+archived! 5e573cab9b277d5862bd92b1
+014_S_4577
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/014_S_4577/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573cd29b277d5e80bd944b(stored) Successfully completed in 0.25 mins on wrangler(nfs)
+archived! 5e573cd29b277d5e80bd944b
+016_S_4097
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/016_S_4097/3_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573cf39b277df810bd9475(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573cf39b277df810bd9475
+016_S_4688
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/016_S_4688/3_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573d0c9b277d9809bd9485(stored) Successfully completed in 0.36 mins on wrangler(nfs)
+archived! 5e573d0c9b277d9809bd9485
+016_S_4951
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/016_S_4951/3_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573d349b277d3164bd949b(stored) Successfully completed in 0.16 mins on wrangler(nfs)
+archived! 5e573d349b277d3164bd949b
+018_S_4349
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/018_S_4349/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573d499b277d7982bd94a8(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e573d499b277d7982bd94a8
+018_S_4400
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/018_S_4400/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573d699b277daadbbd94b9(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573d699b277daadbbd94b9
+019_S_4367
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/019_S_4367/401_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573d819b277d5905bd94c5(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e573d819b277d5905bd94c5
+019_S_4835
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/019_S_4835/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573da39b277d0dc5bd9586(stored) Successfully completed in 0.51 mins on wrangler(nfs)
+archived! 5e573da39b277d0dc5bd9586
+021_S_4335
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/021_S_4335/4_accelerated_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573dd59b277d4376bd9795(stored) Successfully completed in 0.18 mins on wrangler(nfs)
+archived! 5e573dd59b277d4376bd9795
+021_S_6312
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/021_S_6312/3_accelerated_sag_ir-fspgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573dee9b277d611dbd9805(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e573dee9b277d611dbd9805
+022_S_4266
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/022_S_4266/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573e139b277d55f6bd987f(stored) Successfully completed in 0.19 mins on wrangler(nfs)
+archived! 5e573e139b277d55f6bd987f
+022_S_4291
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/022_S_4291/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573e309b277dc6c6bd9926(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573e309b277dc6c6bd9926
+022_S_4320
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/022_S_4320/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573e4c9b277d5722bd9a63(stored) Successfully completed in 0.24 mins on wrangler(nfs)
+archived! 5e573e4c9b277d5722bd9a63
+029_S_4290
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/029_S_4290/4_ir-spgr_wacceleration.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573e6d9b277deefebd9cf2(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e573e6d9b277deefebd9cf2
+029_S_4384
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/029_S_4384/5_ir-spgr_wacceleration.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573e8f9b277d172abd9e2f(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573e8f9b277d172abd9e2f
+029_S_4385
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/029_S_4385/4_ir-spgr_wacceleration.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573ea79b277d37c2bda084(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e573ea79b277d37c2bda084
+029_S_4652
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/029_S_4652/4_ir-spgr_wacceleration.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573ebe9b277dae40bda126(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e573ebe9b277dae40bda126
+029_S_6289
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/029_S_6289/3_accelerated_sag_ir-fspgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573ede9b277d8ee5bda295(stored) Successfully completed in 0.21 mins on wrangler(nfs)
+archived! 5e573ede9b277d8ee5bda295
+031_S_4021
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/031_S_4021/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573efc9b277dd220bda3a0(stored) Successfully completed in 0.38 mins on wrangler(nfs)
+archived! 5e573efc9b277dd220bda3a0
+031_S_4474
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/031_S_4474/601_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573f239b277d2045bda4ba(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e573f239b277d2045bda4ba
+032_S_4348
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/032_S_4348/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573f419b277d6887bda4cb(stored) Successfully completed in 0.16 mins on wrangler(nfs)
+archived! 5e573f419b277d6887bda4cb
+032_S_6279
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/032_S_6279/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573f589b277d81fdbda4d7(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e573f589b277d81fdbda4d7
+032_S_6293
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/032_S_6293/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573f709b277d25ffbda4e7(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e573f709b277d25ffbda4e7
+032_S_6294
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/032_S_6294/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573f919b277d174abda4f9(stored) Successfully completed in 0.16 mins on wrangler(nfs)
+archived! 5e573f919b277d174abda4f9
+032_S_6699
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/032_S_6699/3_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e573faa9b277d1c19bda505(stored) Successfully completed in 0.17 mins on wrangler(nfs)
+archived! 5e573faa9b277d1c19bda505
+033_S_4177
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/033_S_4177/3_mprage_p2_no_angle.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573fc19b277d6992bda534(stored) Successfully completed in 0.18 mins on wrangler(nfs)
+archived! 5e573fc19b277d6992bda534
+033_S_4179
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/033_S_4179/4_mprage_p2_no_angle.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573fdd9b277da0ebbda56c(stored) Successfully completed in 0.22 mins on wrangler(nfs)
+archived! 5e573fdd9b277da0ebbda56c
+033_S_4508
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/033_S_4508/4_mprage_p2_no_angle.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e573ff99b277dc100bda593(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e573ff99b277dc100bda593
+035_S_4464
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/035_S_4464/3_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57401a9b277d63efbda5ad(stored) Successfully completed in 0.37 mins on wrangler(nfs)
+archived! 5e57401a9b277d63efbda5ad
+035_S_6306
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/035_S_6306/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5740439b277d3790bda66e(stored) Successfully completed in 0.34 mins on wrangler(nfs)
+archived! 5e5740439b277d3790bda66e
+035_S_6488
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/035_S_6488/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5740669b277d6686bda699(stored) Successfully completed in 0.16 mins on wrangler(nfs)
+archived! 5e5740669b277d6686bda699
+035_S_6551
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/035_S_6551/2_accelerated_sagittal_mprage_phase_a-p.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57407e9b277d0891bda6b8(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e57407e9b277d0891bda6b8
+036_S_6088
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/036_S_6088/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e57409f9b277d5c68bda711(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e57409f9b277d5c68bda711
+036_S_6316
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/036_S_6316/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e5740c09b277dd01fbda777(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5740c09b277dd01fbda777
+037_S_4071
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/037_S_4071/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5740e29b277d1861bda814(stored) Successfully completed in 0.34 mins on wrangler(nfs)
+archived! 5e5740e29b277d1861bda814
+041_S_4014
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/041_S_4014/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5741059b277dc7cbbda86a(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e5741059b277dc7cbbda86a
+041_S_4060
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/041_S_4060/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5741269b277d462fbda8ff(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5741269b277d462fbda8ff
+041_S_6401
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/041_S_6401/*
+/usr/local/lib/node_modules/brainlife/bl-dataset-upload.js:127
+                            throw new Error("unable to stat " + path + " ... Does the file/directory exist?");
+                            ^
+
+Error: unable to stat /home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/041_S_6401/* ... Does the file/directory exist?
+    at fs.stat (/usr/local/lib/node_modules/brainlife/bl-dataset-upload.js:127:35)
+    at FSReqWrap.oncomplete (fs.js:152:21)
+068_S_4174
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/068_S_4174/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57414a9b277d3e43bda94b(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e57414a9b277d3e43bda94b
+068_S_4424
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/068_S_4424/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57416c9b277d4f83bdaa0a(stored) Successfully completed in 0.26 mins on wrangler(nfs)
+archived! 5e57416c9b277d4f83bdaa0a
+070_S_4856
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/070_S_4856/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57418d9b277d0b3cbdab25(stored) Successfully completed in 0.13 mins on wrangler(nfs)
+archived! 5e57418d9b277d0b3cbdab25
+073_S_4155
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/073_S_4155/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5741a49b277dac1abdac80(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e5741a49b277dac1abdac80
+073_S_4762
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/073_S_4762/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5741c69b277d3548bdae5c(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e5741c69b277d3548bdae5c
+073_S_4795
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/073_S_4795/11_mprage_grappa2_s3_dis3d.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e5741e69b277d091ebdaeec(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e5741e69b277d091ebdaeec
+082_S_4339
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/082_S_4339/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5741fe9b277dfb99bdaf84(stored) Successfully completed in 0.29 mins on wrangler(nfs)
+archived! 5e5741fe9b277dfb99bdaf84
+098_S_4050
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/098_S_4050/4_accelerated_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e5742239b277d998abdb06b(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e5742239b277d998abdb06b
+098_S_4506
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/098_S_4506/4_accelerated_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e5742449b277d2b8ebdb22c(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e5742449b277d2b8ebdb22c
+099_S_4086
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/099_S_4086/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57425b9b277d6131bdb30b(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e57425b9b277d6131bdb30b
+099_S_4104
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/099_S_4104/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57427e9b277ded29bdb465(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e57427e9b277ded29bdb465
+099_S_6175
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/099_S_6175/3_accelerated_sag_ir-fspgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5742a29b277dd856bdb519(stored) Successfully completed in 0.17 mins on wrangler(nfs)
+archived! 5e5742a29b277dd856bdb519
+114_S_6063
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/114_S_6063/3_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5742b89b277d7f97bdb557(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5742b89b277d7f97bdb557
+114_S_6251
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/114_S_6251/6_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5742da9b277d46fdbdb672(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e5742da9b277d46fdbdb672
+116_S_4010
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/116_S_4010/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5742f29b277d2419bdb6dd(stored) Successfully completed in 0.32 mins on wrangler(nfs)
+archived! 5e5742f29b277d2419bdb6dd
+116_S_4855
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/116_S_4855/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5743129b277d082ebdb7c7(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e5743129b277d082ebdb7c7
+127_S_4198
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/127_S_4198/4_accelerated_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e5743299b277d04edbdb81c(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5743299b277d04edbdb81c
+127_S_4645
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/127_S_4645/4_accelerated_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e57434a9b277d3731bdb861(stored) Successfully completed in 0.42 mins on wrangler(nfs)
+archived! 5e57434a9b277d3731bdb861
+127_S_4843
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/127_S_4843/4_accelerated_sag_ir-spgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+Warning: transform matrix 1.1 is not 1
+Warning: transform  matrix 2.2 is not 1
+waiting for archive request made on the validation output
+5e5743759b277dfedcbdb88d(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e5743759b277dfedcbdb88d
+128_S_4599
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/128_S_4599/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5743989b277de0e1bdb89f(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e5743989b277de0e1bdb89f
+129_S_4371
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/129_S_4371/501_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5743ae9b277ddf8abdb8b1(stored) Successfully completed in 0.35 mins on wrangler(nfs)
+archived! 5e5743ae9b277ddf8abdb8b1
+129_S_4396
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/129_S_4396/401_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5743d79b277d744bbdb987(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5743d79b277d744bbdb987
+129_S_6288
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/129_S_6288/10_accelerated_sag_ir-fspgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5743f89b277d4472bdb9fc(stored) Successfully completed in 0.40 mins on wrangler(nfs)
+archived! 5e5743f89b277d4472bdb9fc
+129_S_6452
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/129_S_6452/3_accelerated_sag_ir-fspgr.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5744209b277de068bdba1f(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5744209b277de068bdba1f
+130_S_4343
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/130_S_4343/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5744429b277da859bdbaaf(stored) Successfully completed in 0.13 mins on wrangler(nfs)
+archived! 5e5744429b277da859bdbaaf
+136_S_4433
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/136_S_4433/301_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5744579b277d9576bdbabb(stored) Successfully completed in 0.14 mins on wrangler(nfs)
+archived! 5e5744579b277d9576bdbabb
+137_S_4466
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/137_S_4466/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5744779b277d8d45bdbbb5(stored) Successfully completed in 0.29 mins on wrangler(nfs)
+archived! 5e5744779b277d8d45bdbbb5
+137_S_4587
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/137_S_4587/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57449a9b277d63e7bdbc83(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e57449a9b277d63e7bdbc83
+153_S_4151
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/153_S_4151/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5744bb9b277d485dbdbd40(stored) Successfully completed in 0.19 mins on wrangler(nfs)
+archived! 5e5744bb9b277d485dbdbd40
+168_S_6049
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6049/3_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5744d89b277d82acbdbde5(stored) Successfully completed in 0.35 mins on wrangler(nfs)
+archived! 5e5744d89b277d82acbdbde5
+168_S_6062
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6062/3_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5744fb9b277d7256bdbe1b(stored) Successfully completed in 0.31 mins on wrangler(nfs)
+archived! 5e5744fb9b277d7256bdbe1b
+168_S_6065
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6065/2_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57451d9b277db359bdbf12(stored) Successfully completed in 0.18 mins on wrangler(nfs)
+archived! 5e57451d9b277db359bdbf12
+168_S_6233
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6233/5_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5745369b277d2fc3bdbfcb(stored) Successfully completed in 0.33 mins on wrangler(nfs)
+archived! 5e5745369b277d2fc3bdbfcb
+168_S_6281
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6281/5_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5745569b277d2ca7bdc041(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5745569b277d2ca7bdc041
+168_S_6285
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6285/5_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+loading error.log
+(node:21670) UnhandledPromiseRejectionWarning: timedout while running_sync
+(node:21670) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:21670) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+168_S_6318
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6318/5_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5745859b277d8e04bdc2f8(stored) Successfully completed in 0.38 mins on wrangler(nfs)
+archived! 5e5745859b277d8e04bdc2f8
+168_S_6413
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6413/5_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5745ac9b277d2279bdc4bc(stored) Successfully completed in 0.15 mins on wrangler(nfs)
+archived! 5e5745ac9b277d2279bdc4bc
+168_S_6492
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/168_S_6492/5_accelerated_sagittal_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5745c49b277d1914bdc4f3(stored) Successfully completed in 0.30 mins on wrangler(nfs)
+archived! 5e5745c49b277d1914bdc4f3
+177_S_6328
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/177_S_6328/401_sagittal_3d_accelerated_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e5745e69b277d044cbdc56e(stored) Successfully completed in 0.38 mins on wrangler(nfs)
+archived! 5e5745e69b277d044cbdc56e
+941_S_4100
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/941_S_4100/2_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57460d9b277d4d78bdc5be(stored) Successfully completed in 0.19 mins on wrangler(nfs)
+archived! 5e57460d9b277d4d78bdc5be
+941_S_4255
+/home/ubuntu/Desktop/ADNI_MRI_Image/nii_CN/941_S_4255/4_mprage.nii.gz
+Waiting for upload task to be ready...
+Uploading data..
+Dataset successfully uploaded
+Validating data... (brainlife/validator-neuro-anat)
+submitting validation task..
+waiting for validation task..
+Warning: transform matrix 0.1 is not 1
+waiting for archive request made on the validation output
+5e57462c9b277d44b8bdc626(stored) Successfully completed in 0.40 mins on wrangler(nfs)
+archived! 5e57462c9b277d44b8bdc626
