@@ -16,7 +16,7 @@ do
 		--datatype neuro/anat/t1w \
 		--subject $filename \
 		--session 1 \
-		--t1 $nii
+		--t1 $nii \
         --tag "all"
     done
 done
