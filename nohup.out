@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 002_S_5018
 /home/ubuntu/Desktop/ADNI_MRI_Image/nii_AD/002_S_5018/301_mprage.nii.gz
 Waiting for upload task to be ready...
@@ -2547,3 +2548,5 @@ Warning: transform matrix 0.1 is not 1
 waiting for archive request made on the validation output
 5e5fdfc07ee2451925e43a29(stored) Successfully completed in 0.30 mins on wrangler(nfs)
 archived! 5e5fdfc07ee2451925e43a29
+=======
+>>>>>>> 64b1ec1e95396f4befe226963c0e3b672508e16f
