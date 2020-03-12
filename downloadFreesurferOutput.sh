@@ -54,7 +54,7 @@ do
         if [ ! -d $outdir ]; then
             mkdir -p CN_freesurfer_output/$subject 
             bl dataset download $id --directory $outdir
-            rm -rf CN_freesurfer_output/$subject/output/label
+            rm -rf CN_freesurfer_output/$subject/output/label #目的是只保留freesurfer输出的stats部分结果
             rm -rf CN_freesurfer_output/$subject/output/mri
             rm -rf CN_freesurfer_output/$subject/output/scripts
             rm -rf CN_freesurfer_output/$subject/output/surf
